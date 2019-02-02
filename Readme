@@ -1,2 +1,2 @@
-Stock Price Prediction using Newsfeed text data scraped from news website and 
+Stock Price Prediction using sentiment analysis on Newsfeed text data scraped from news website and 
 create a real-time dashboard using plotly, seaborn, dash and matplotlib.
